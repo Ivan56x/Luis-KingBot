@@ -2,10 +2,10 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['50575008120', '🤖 Mystic - Bot 🤖', true],
-  ['17722386341']
+global.owner = ['529981555604']
+  ['529983537578', '👑 Luis - Creador 👑', true],
+  ['529981798187', '🤖 Luis - Bot 🤖', true],
+  ['529981798187']
 ] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = [] 
@@ -61,10 +61,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.author = '★𝚃𝚑𝚎 𝙻𝚞𝚒𝚜 - 𝙱𝚘𝚝★'
 
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.wm = '★𝚃𝚑𝚎 𝙻𝚞𝚒𝚜 - 𝙱𝚘𝚝★'
+global.igfg = '★𝚃𝚑𝚎 𝙻𝚞𝚒𝚜 - 𝙱𝚘𝚝★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.multiplier = 9999 // The higher, The harder levelup
